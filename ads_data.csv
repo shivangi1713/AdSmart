@@ -1,0 +1,11 @@
+user_id,ad_id,age,gender,time_of_day,ad_category,clicked
+1,101,25,Male,Morning,Tech,1
+2,102,30,Female,Afternoon,Fashion,0
+3,103,22,Male,Night,Fitness,1
+4,104,27,Female,Evening,Food,0
+5,101,28,Male,Morning,Tech,1
+6,102,35,Female,Afternoon,Fashion,1
+7,101,24,Male,Morning,Tech,0
+8,103,23,Female,Night,Fitness,1
+9,104,26,Female,Evening,Food,0
+10,105,29,Male,Evening,Travel,1
