@@ -5,7 +5,7 @@ CTR-based Ad Recommendation System using ML models for personalized ad targeting
 AdSmart is a simple web-based ad recommendation system that uses user interaction data to recommend top-performing ads based on Click-Through Rate (CTR). Built using Python and Streamlit, this app allows marketers to analyze ads and make data-driven decisions.
 
 ---
-<img width="542" height="209" alt="Screenshot 2025-07-29 062954" src="https://github.com/user-attachments/assets/d5b19917-2d15-4868-ada5-c67b5aea0be7" />
+<img width="1005" height="662" alt="Screenshot 2025-07-29 061051" src="https://github.com/user-attachments/assets/11ccd513-a227-4a32-b0ae-94dcf2009540" />
 
 ---
 
