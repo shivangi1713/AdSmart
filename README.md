@@ -13,7 +13,8 @@ AdSmart is a simple web-based ad recommendation system that uses user interactio
 
 ---
 
-<img width="542" height="209" alt="Screenshot 2025-07-29 062954" src="https://github.com/user-attachments/assets/64f10f0b-fb27-43b1-8bdd-e8e43b354a98" />
+<img width="1064" height="766" alt="Screenshot 2025-07-29 061215" src="https://github.com/user-attachments/assets/b9507a00-f1da-4829-b3d6-5963fd684b9a" />
+
 
 ---
 
