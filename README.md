@@ -28,7 +28,7 @@ AdSmart is a simple web-based ad recommendation system that uses user interactio
 
 <img width="542" height="209" alt="image" src="https://github.com/user-attachments/assets/a299d710-dfa0-43a4-b66f-0d88e106c8c6" />
 
-<img width="542" height="209" alt="Screenshot 2025-07-29 062954" src="https://github.com/user-attachments/assets/346a9aa8-9e21-4b76-a1f7-686ff6db8e46" />
+
 
 ---
 
@@ -85,3 +85,4 @@ I can fill them in for you.
 To see what changes you've made:
 git status
 
+<img width="542" height="209" alt="Screenshot 2025-07-29 062954" src="https://github.com/user-attachments/assets/7bea4e37-11cd-47e7-8042-6a677987bdba" />
